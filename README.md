@@ -19,7 +19,6 @@ click to see the video </a>
 BASED ON:</br>
 Fluid Simulation for Dummies by Mike Ash:</br>
 &emsp;&emsp;    https://mikeash.com/pyblog/fluid-simulation-for-dummies.html</br>
-
 Real-Time Fluid Dynamics for Games by Jos Stam:</br>
 &emsp;&emsp;    https://pdfs.semanticscholar.org/847f/819a4ea14bd789aca8bc88e85e906cfc657c.pdf</br>
 &emsp;&emsp;    https://github.com/CFusion-zz/Real-Time-Fluid-Dynamics-for-Games/blob/master/code</br>

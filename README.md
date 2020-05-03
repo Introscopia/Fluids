@@ -4,22 +4,12 @@
 
 <body>
 
-<script>
-     (function(d, s, id){
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) {return;}
-        js = d.createElement(s); js.id = id;
-        js.src = "https://assets.gfycat.com/gfycat.js";
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'gfycat-js'));
-</script>
-
 <h1>Fluids</h1>
 Simple 2D Navier-Stokes fluid simulation in C with SDL2
 </br>
 </br>
 
-<div class="gfyitem" data-title=true data-autoplay=false data-controls=true data-id="soulfulgrippinghorseshoebat"></div>
+<img src="https://thumbs.gfycat.com/SoulfulGrippingHorseshoebat-mobile.mp4">
 
 </br>
 </br>

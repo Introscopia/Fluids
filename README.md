@@ -9,8 +9,9 @@ Simple 2D Navier-Stokes fluid simulation in C with SDL2
 </br>
 </br>
 
-<a href="https://thumbs.gfycat.com/SoulfulGrippingHorseshoebat-mobile.mp4"> <img src="https://raw.githubusercontent.com/Introscopia/Fluids/master/prev.png"> </a>
-click to see the video
+<a href="https://thumbs.gfycat.com/SoulfulGrippingHorseshoebat-mobile.mp4"> <img src="https://raw.githubusercontent.com/Introscopia/Fluids/master/prev.png"  style="height:200px">
+</br>
+click to see the video </a>
 
 </br>
 </br>
